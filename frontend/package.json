@@ -29,5 +29,10 @@
     "husky": "^7.0.0",
     "prettier": "^2.5.1",
     "vite": "^2.8.0"
-  }
+  },
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
